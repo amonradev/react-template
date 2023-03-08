@@ -9,7 +9,6 @@ Primeiramente, aqui vão algumas extensões que são obrigatórias ou que eu rec
 
 As configurações fundamentais do VSCode se encontram na .vscode dentro do projeto então não precisam se preocupar com isso.
 <hr>
-<br>
 <h2>Quais comandos eu preciso rodar no meu terminal?</h2>
 Aqui vão a lista de comandos úteis que existem no projeto:
 
@@ -19,7 +18,6 @@ Aqui vão a lista de comandos úteis que existem no projeto:
 - `npm run build` (para rodar fazer o build da aplicação, o resultado ficará na pasta `dist`)
 
 <hr>
-<br>
 <h2>Mas o que eu encontrarei já configurado?</h2>
 
 Atualmente temos as seguintes configurações já disponíveis e pré-configuradas (sinta-se a vontade para sugerir/implementar alterações ou então aplica-las no seu projeto)
@@ -30,7 +28,6 @@ Atualmente temos as seguintes configurações já disponíveis e pré-configurad
 - Jest para tests unitários já configurado
 
 <hr>
-<br>
 <h2>E como organizo meus arquivos nas pastas?</h2>
 Eu vou deixar aqui uma sugestão de organização, mas lembrando que você pode organizar da maneira que achar melhor no seu projeto!
 <br><br>
@@ -55,5 +52,4 @@ Aqui diferentemente do que é usado normalmente, eu sugiro que vocês criem apen
 <h3>• Utils</h3>
 Nessa pasta eu gosto de criar aquelas funções padrões, como por exemplo, um formatador de valor para Real, ou então um formatador de Datas.
 <hr>
-<br>
 <h2>Dúvidas? Me chama no <a href="https://www.linkedin.com/in/amon-ra-cardoso-51231020b/">linkedin</a> ou abre uma issue aqui no repositório 🚀</h2>
