@@ -1,4 +1,4 @@
-<h1>Olá a todos! Obrigado por acessarem o nosso template 🤘</h1>
+<h1>Olá a todos! Obrigado por acessar o meu template 🤘</h1>
 
 Primeiramente, aqui vão algumas extensões que são obrigatórias ou que eu recomendo fortemente serem usadas (Editor VSCode):
 - Auto Import
