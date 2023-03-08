@@ -11,8 +11,8 @@ module.exports = plop => {
         actions: [
             {
                 type: 'add',
-                path: 'src/components/{{name}}/{{name}}.tsx',
-                templateFile: 'plop-templates/component/component.tsx.hbs'
+                path: 'src/components/{{name}}/{{name}}.jsx',
+                templateFile: 'plop-templates/component/component.jsx.hbs'
             },
             {
                 type: 'add',
@@ -60,8 +60,8 @@ module.exports = plop => {
         actions: [
             {
                 type: 'add',
-                path: 'src/pages/{{name}}/{{name}}.tsx',
-                templateFile: 'plop-templates/page/page.tsx.hbs'
+                path: 'src/pages/{{name}}/{{name}}.jsx',
+                templateFile: 'plop-templates/page/page.jsx.hbs'
             },
             {
                 type: 'add',
