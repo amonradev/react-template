@@ -1,4 +1,4 @@
-<h1>Olá a todos! Obrigado por acessar esse template 🤘</h1>
+<h1>Olá a todos! Obrigado por acessarem esse template 🤘</h1>
 
 Primeiramente, aqui vão algumas extensões que são obrigatórias ou que eu recomendo fortemente serem usadas (Editor VSCode):
 - Auto Import
@@ -8,6 +8,16 @@ Primeiramente, aqui vão algumas extensões que são obrigatórias ou que eu rec
 - Javascript Code Snippets
 
 As configurações fundamentais do VSCode se encontram na .vscode dentro do projeto então não precisam se preocupar com isso.
+<hr>
+<br>
+<h2>Quais comandos eu preciso rodar no meu terminal?</h2>
+Aqui vão a lista de comandos úteis que existem no projeto:
+
+- `npm run dev` (para rodar localmente)
+- `npm run test` (para rodar os tests)
+- `npm run coverage` (para rodar os testes e verificar a cobertura dos mesmos)
+- `npm run build` (para rodar fazer o build da aplicação, o resultado ficará na pasta `dist`)
+
 <hr>
 <br>
 <h2>Mas o que eu encontrarei já configurado?</h2>
