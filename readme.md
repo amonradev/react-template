@@ -9,9 +9,10 @@ Primeiramente, aqui vão algumas extensões que são obrigatórias ou que eu rec
 
 As configurações fundamentais do VSCode se encontram na .vscode dentro do projeto então não precisam se preocupar com isso.
 <hr>
-<h2>Quais comandos eu preciso rodar no meu terminal?</h2>
+<h2>Quais comandos eu posso utilizar no meu terminal?</h2>
 Aqui vão a lista de comandos úteis que existem no projeto:
 
+- `npm run install` (rode a primeira vez que abrir o projeto, para instalar as dependências)
 - `npm run dev` (para rodar localmente)
 - `npm run test` (para rodar os tests)
 - `npm run coverage` (para rodar os testes e verificar a cobertura dos mesmos)
