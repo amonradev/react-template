@@ -1,7 +1,5 @@
 {
-    example: null;
-    array: [
-        0
-    ];
-    date: null
+  null;
+  [0];
+  null;
 }

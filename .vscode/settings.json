@@ -1,5 +1,19 @@
 {
   "editor.formatOnSave": true,
-  "editor.formatOnSaveMode": "modifications",
-  "files.autoSave": "off"
+  "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "files.eol": "\n",
+  "prettier.singleQuote": true,
+  "prettier.semi": true,
+  "prettier.tabWidth": 2,
+  "prettier.trailingComma": "none",
+  "prettier.printWidth": 80
 }
