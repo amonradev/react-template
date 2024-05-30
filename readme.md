@@ -16,7 +16,7 @@ Aqui vão a lista de comandos úteis que existem no projeto:
 - `npm run dev` (para rodar localmente)
 - `npm run test` (para rodar os tests)
 - `npm run coverage` (para rodar os testes e verificar a cobertura dos mesmos)
-- `npm run build` (para rodar fazer o build da aplicação, o resultado ficará na pasta `dist`)
+- `npm run build` (para fazer o build da aplicação, o resultado ficará na pasta `dist`)
 
 <hr>
 <h2>Mas o que eu encontrarei já configurado?</h2>
